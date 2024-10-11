@@ -13,28 +13,6 @@ Este projeto é um site de e-commerce desenvolvido em React, utilizando Styled-C
 * **HTML**
 * **CSS**
 
-## Estrutura do Projeto
-
-projeto-site/
-├── public/
-│   └── Logo.png
-│   └── Sobre.png
-│   └── Perfume.png
-├── src/
-│   ├── App.js
-│   ├── styles/
-│   │   ├── Footer.js
-│   │   ├── Header.js
-│   │   ├── Main.js
-│   │   ├── Home.js
-│   │   ├── About.js
-│   │   ├── Produtos.js
-│   │   └── Final.js
-│   └── assets/
-│       └── Perfume.png
-└── package.json
-
-
 ## Como Rodar o Projeto
 
 1. **Clone o repositório:**
